@@ -1,9 +1,9 @@
+//intro.js//
+const name = "divine james";
+const age = "28";
+const favoriteprogramminglanguage = "javascript,nodejs";
 
-const username = new name(
-    {
-        username: {
-           name:  ELOI,
-           age: 24,
-           programm:node.js,
-        }      
-    });
+
+console.log("Name" ,"divine james");
+console.log("Age" ,"28"),
+console.log("Favorite Programme Language", "javascript nodejs");
