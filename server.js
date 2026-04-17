@@ -19,13 +19,13 @@ app.use((req, res, next) => {
 })
 
 
-
-
 // implementing the routes,GET,POST,\\
 
 //GET/:\\
 app.get(`/`, (req, res) => {
     res.send("MY WEEK 2 API");
+
+    res.send("my week 2 API");
 });
 
 
